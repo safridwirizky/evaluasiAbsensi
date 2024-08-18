@@ -1,0 +1,12 @@
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\bin\Debug\Evaluasi Absensi v0.1.exe
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\bin\Debug\Evaluasi Absensi v0.1.pdb
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\bin\Debug\Evaluasi Absensi v0.1.xml
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi_Absensi_v0._1.Dialog1.resources
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi_Absensi_v0._1.Form1.resources
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi_Absensi_v0._1.Resources.resources
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi Absensi v0.1.vbproj.GenerateResource.Cache
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi Absensi v0.1.exe
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi Absensi v0.1.xml
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi Absensi v0.1.pdb
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi Absensi v0.1.vbprojResolveAssemblyReference.cache
+C:\Users\gonel\Desktop\VB\Evaluasi Absensi v0.1\Evaluasi Absensi v0.1\obj\x86\Debug\Evaluasi Absensi v0.1.vbproj.ResolveComReference.cache
